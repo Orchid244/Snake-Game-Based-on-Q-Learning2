@@ -1,0 +1,8 @@
+{
+  "episodes": 50,
+  "win_rate": 0.1,
+  "avg_foods": 14.98,
+  "avg_return": 335.0511999999997,
+  "avg_steps": 319.84,
+  "avg_bonus": 0.02
+}
