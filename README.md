@@ -1,9 +1,6 @@
 
 # Snake Game Based on Q-Learning
 
-YouTube: *(to be added)*
-
-GitHub: *(to be added)*
 
 ## 1 Introduction
 
